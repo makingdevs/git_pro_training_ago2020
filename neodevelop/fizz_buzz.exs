@@ -1,12 +1,12 @@
 defmodule FizzBuzz do
   def fizbuzz(n) do
-    Enum.each(1..n, fn e -> IO.puts(do_fizzbuzz(e)) end)
+    Enum.map(1..n, fn e -> do_fizzbuzz(e) end)
   end
 
   def do_fizzbuzz(n) do
     cond do
       rem(n, 3) == 0 && rem(n, 5) == 0 ->
-        :fizz
+        :fizzbuzz
 
       rem(n, 3) == 0 ->
         :fizz
@@ -20,4 +20,4 @@ defmodule FizzBuzz do
   end
 end
 
-FizzBuzz.fizbuzz(100)
+IO.inspect(FizzBuzz.fizbuzz(100))
