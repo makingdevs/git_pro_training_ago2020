@@ -7,5 +7,3 @@
 ## Tech
 
 - Docker
-- PLSQL
-- Kube
