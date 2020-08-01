@@ -7,7 +7,3 @@
 ## Tech
 
 - Docker
-
-## Features
-
-- Great UI
