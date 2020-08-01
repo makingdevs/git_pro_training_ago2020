@@ -7,3 +7,4 @@
 ## Tech
 
 - Docker
+- PLSQL
