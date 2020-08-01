@@ -9,4 +9,3 @@
 - Docker
 - Java
 - C#
-- Ruby
