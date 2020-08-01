@@ -7,3 +7,6 @@
 ## Tech
 
 - Docker
+- Java
+- C#
+- Ruby
