@@ -5,6 +5,7 @@
 - @neodevelop
 - @gibrnar
 - @eliotr
+- @rafavelar
 
 ## Tech
 
@@ -21,5 +22,3 @@
 - admin services
 
 ## Manual
-
-
