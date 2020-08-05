@@ -10,7 +10,7 @@
 ## Tech
 
 - Docker
-- Java
+- Groovy
 - C#
 - Elm
 - React
