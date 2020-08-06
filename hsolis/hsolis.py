@@ -1,4 +1,4 @@
-for x in range(100):
+for x in range(101):
   if x > 0:
     if (x % 3) == 0:
      print("fizz")
