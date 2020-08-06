@@ -1,3 +1,5 @@
-puts "Welcome to this App"
+require 'sinatra'
 
-puts ARGV
+get '/' do
+  "Hello world"
+end
