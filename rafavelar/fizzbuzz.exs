@@ -9,3 +9,5 @@ defmodule FizzBuzz do
   defp remainder_for({_, b, _}) when rem(b, 5) == 0, do: :buzz
   defp remainder_for({_, _, h}), do: h
 end
+
+IO.puts "Testing the function"
