@@ -1,8 +1,8 @@
-for x in range(101):
-  if x > 0:
-    if (x % 3) == 0:
-     print("fizz")
-    elif (x % 5) == 0:
-     print("buzz")
-    else:
-      print(x)
+for x in range(100):
+  y = x + 1
+  if (y % 3) == 0:
+    print("fizz")
+  elif (y % 5) == 0:
+    print("buzz")
+  else:
+    print(y)
