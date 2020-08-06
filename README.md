@@ -2,7 +2,6 @@
 
 ## Developers
 
-- @neodevelop
 - @gibrnar
 - @eliotr
 - @rafavelar
