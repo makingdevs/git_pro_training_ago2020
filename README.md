@@ -6,6 +6,7 @@
 - @gibrnar
 - @eliotr
 - @rafavelar
+- @angelctmex
 
 ## Tech
 
