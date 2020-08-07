@@ -15,6 +15,9 @@
 - C#
 - Elm
 - React
+- Erlang
+- Swift
+- Kotlin
 
 ## Features
 
