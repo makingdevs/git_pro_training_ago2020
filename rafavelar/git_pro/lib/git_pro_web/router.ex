@@ -18,6 +18,7 @@ defmodule GitProWeb.Router do
     pipe_through :browser
 
     live "/", PageLive, :index
+    live "/miRoute", MiRouteLive
   end
 
   # Other scopes may use custom stacks.
