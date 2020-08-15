@@ -7,5 +7,9 @@ end
 put '/' do
   "Created"
 end
+
+delete "/" do
+  "delete"
+end
 #
 # New comment
